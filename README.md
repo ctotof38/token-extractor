@@ -26,7 +26,7 @@ these zip commands generate two files
 
 ```
 
-# To install it 
+# To install it temporarly
 
 ## in firefox
 
@@ -53,3 +53,11 @@ Enable Developer Mode (the toggle switch in the top-right corner of the page).
 Click the “Load unpacked extension” button (top-left).
 
 Select the .output/chrome-mv3/ folder from your project.
+
+
+# To install it definitively
+
+## in firefox
+
+
+

@@ -13,7 +13,10 @@ export default defineConfig({
     description: "Allows you to easily capture and copy the Bearer authorization token from the active tab.",
     browser_specific_settings: {
       gecko: {
-        id: "ctotof-token-extractor@free.fr", // (n'importe quelle chaîne unique au format email)
+        id: "totofdem@gmail.com",
+        data_collection_permissions: {
+          required: ["websiteContent"],
+        },
       },
     },
     permissions: [
