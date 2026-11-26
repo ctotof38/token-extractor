@@ -2,7 +2,7 @@
   "name": "token-extractor",
   "description": "Allows you to easily capture and copy the Bearer authorization token from the active tab.",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "wxt",

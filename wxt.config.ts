@@ -9,7 +9,7 @@ export default defineConfig({
       48: "/icon/icon-48.png",
       128: "/icon/icon-128.png",
     },
-    version: "1.0.0",
+    version: "1.0.1",
     description: "Allows you to easily capture and copy the Bearer authorization token from the active tab.",
     browser_specific_settings: {
       gecko: {
